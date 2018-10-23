@@ -1,3 +1,6 @@
+nativescript installation
+https://docs.nativescript.org/start/ns-setup-win
+
 PassWord@G
 
 VSCODE 
